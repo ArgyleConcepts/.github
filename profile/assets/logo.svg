@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72.577" height="57.554" viewBox="0 0 72.577 57.554">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#e0e0e0;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="Logo" transform="translate(-2.008 .006)">
+        <g id="Layer_4" data-name="Layer 4" transform="translate(.542 .494)">
+            <path id="Path_1471" data-name="Path 1471" class="cls-1" d="M15.253 55.5.941 30.355a3.127 3.127 0 0 1 0-3.057L15.253 2.15a3.075 3.075 0 0 1 5.348 0L34.913 27.3a3.127 3.127 0 0 1 0 3.057L20.6 55.5a3.075 3.075 0 0 1-5.348 0z" transform="translate(1.458 -.506)"/>
+            <path id="Path_1472" data-name="Path 1472" class="cls-1" d="M37.968 55.412 23.63 30.255a3.075 3.075 0 0 1 0-3.049L37.968 2.058a3.075 3.075 0 0 1 5.357 0l14.338 25.148a3.075 3.075 0 0 1 0 3.049L43.325 55.412a3.084 3.084 0 0 1-5.357 0z" transform="translate(-3.466 -.494)"/>
+            <path id="Path_1473" data-name="Path 1473" class="cls-1" d="M61.968 55.5 47.63 30.355a3.084 3.084 0 0 1 0-3.057L61.968 2.15a3.084 3.084 0 0 1 5.357 0L81.663 27.3a3.084 3.084 0 0 1 0 3.057L67.325 55.5a3.084 3.084 0 0 1-5.357 0z" transform="translate(-8.56 -.507)"/>
+        </g>
+    </g>
+</svg>
